@@ -1,1 +1,0 @@
-Basic inventory features such as opening and closing a players inventory
